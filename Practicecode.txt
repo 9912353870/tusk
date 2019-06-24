@@ -1,0 +1,3 @@
+Welome to the git
+this is the first code
+im trying to push the code.
